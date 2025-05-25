@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "reforged:mithril_block"
+    }
+  ],
+  "result":
+  {
+    "item": "reforged:mithril",
+    "count": 9
+  }
+}
