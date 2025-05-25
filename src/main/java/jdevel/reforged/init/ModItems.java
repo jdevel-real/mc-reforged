@@ -15,6 +15,10 @@ import java.util.List;
 public class ModItems {
     public static final List<Item> ITEMS = new ArrayList<>();
 
+    /*
+    Mithril >> Mythril in Localization
+     */
+
     // MATERIALS
     public static final Item.ToolMaterial MATERIAL_MITHRIL = EnumHelper.addToolMaterial("material_mithril",
             4,

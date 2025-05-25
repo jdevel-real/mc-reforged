@@ -1,18 +1,20 @@
 item.copper.name=Copper Ingot
-item.mithril.name=Mithril Ingot
+item.mithril.name=Mythril Ingot
 
-item.mithril_sword.name=Mithril Sword
-item.mithril_pickaxe.name=Mithril Pickaxe
-item.mithril_axe.name=Mithril Axe
-item.mithril_shovel.name=Mithril Shovel
-item.mithril_hoe.name=Mithril Hoe
+item.mithril_sword.name=Mythril Sword
+item.mithril_pickaxe.name=Mythril Pickaxe
+item.mithril_axe.name=Mythril Axe
+item.mithril_shovel.name=Mythril Shovel
+item.mithril_hoe.name=Mythril Hoe
 
-item.mithril_helmet.name=Mithril Helmet
-item.mithril_chestplate.name=Mithril Chestplate
-item.mithril_leggings.name=Mithril Leggings
-item.mithril_boots.name=Mithril Boots
+item.mithril_helmet.name=Mythril Helmet
+item.mithril_chestplate.name=Mythril Chestplate
+item.mithril_leggings.name=Mythril Leggings
+item.mithril_boots.name=Mythril Boots
 
 tile.copper_block.name=Block of Copper
 tile.copper_ore.name=Copper Ore
-tile.mithril_block.name=Block of Mithril
-tile.mithril_ore.name=Mithril Ore
+tile.mithril_block.name=Block of Mythril
+tile.mithril_ore.name=Mythril Ore
+
+itemGroup.reforged=Reforged

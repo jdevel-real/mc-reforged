@@ -1,6 +1,7 @@
 package jdevel.reforged.Block;
 
 import jdevel.reforged.Main;
+import jdevel.reforged.Tabs.TabReforged;
 import jdevel.reforged.init.ModBlocks;
 import jdevel.reforged.init.ModItems;
 import jdevel.reforged.util.IHasModel;
@@ -16,7 +17,7 @@ public class BlockBase extends Block implements IHasModel {
 
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+        setCreativeTab(Main.reforgedTab);
 
         ModBlocks.BLOCKS.add(this);
         ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
