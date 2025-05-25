@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "reforged:copper_block"
+    }
+  ],
+  "result":
+  {
+    "item": "reforged:copper",
+    "count": 9
+  }
+}

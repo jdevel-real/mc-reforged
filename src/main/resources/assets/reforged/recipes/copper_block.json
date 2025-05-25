@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "reforged:copper"
+    }
+  },
+  "result": {
+    "item": "reforged:copper_block",
+    "count": 1
+  }
+}

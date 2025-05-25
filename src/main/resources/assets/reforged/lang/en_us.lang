@@ -1,0 +1,7 @@
+item.copper.name=Copper Ingot
+item.mithril.name=Mithril Ingot
+
+tile.copper_block.name=Block of Copper
+tile.copper_ore.name=Copper Ore
+tile.mithril_block.name=Block of Mithril
+tile.mithril_ore.name=Mithril Ore
