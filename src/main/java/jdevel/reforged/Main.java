@@ -1,5 +1,6 @@
 package jdevel.reforged;
 
+import jdevel.reforged.init.ModRecipes;
 import jdevel.reforged.proxy.CommonProxy;
 import jdevel.reforged.util.Reference;
 import net.minecraftforge.fml.common.Mod;
@@ -22,7 +23,7 @@ public class Main {
     }
     @Mod.EventHandler
     public static void Init(FMLInitializationEvent event) {
-
+        ModRecipes.init();
     }
     @Mod.EventHandler
     public static void postInit(FMLPostInitializationEvent event) {

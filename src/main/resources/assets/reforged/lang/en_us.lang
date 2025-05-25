@@ -1,6 +1,17 @@
 item.copper.name=Copper Ingot
 item.mithril.name=Mithril Ingot
 
+item.mithril_sword.name=Mithril Sword
+item.mithril_pickaxe.name=Mithril Pickaxe
+item.mithril_axe.name=Mithril Axe
+item.mithril_shovel.name=Mithril Shovel
+item.mithril_hoe.name=Mithril Hoe
+
+item.mithril_helmet.name=Mithril Helmet
+item.mithril_chestplate.name=Mithril Chestplate
+item.mithril_leggings.name=Mithril Leggings
+item.mithril_boots.name=Mithril Boots
+
 tile.copper_block.name=Block of Copper
 tile.copper_ore.name=Copper Ore
 tile.mithril_block.name=Block of Mithril
